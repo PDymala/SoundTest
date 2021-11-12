@@ -12,7 +12,7 @@ Some images of the app:
 
 
 <BR><BR>
-<img src="soundapp.png" width="400" />
+<img src="soundapp.PNG" width="400" />
 
 
 LANGUAGES:
